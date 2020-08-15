@@ -2,7 +2,7 @@
 
 ## Set Up
 You can run this locally by running the following commands:
-1. `git clone < paste repo link for js_challenge >`
+1. `git clone < paste SSH key >`
 2. `cd js_challenge`
 3. `npm install`
 
