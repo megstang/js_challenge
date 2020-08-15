@@ -64,7 +64,7 @@
   "scripts": {
     "lint": "eslint lib/* bin/*",
     "precommit": "lint-staged",
-    "test": "mocha tests.js"
+    "test": "mocha"
   },
   "version": "2.1.2"
 }
