@@ -2,9 +2,9 @@
 
 ## Set Up
 You can run this locally by running the following commands:
-1. git clone <paste repo link for js_challenge>
-2. cd js_challenge
-3. npm install
+1. `git clone < paste repo link for js_challenge >`
+2. `cd js_challenge`
+3. `npm install`
 
 ## How it's organized
 1. Code for `firstUniqueCharacterIndex` is in `/lib/first-unique-char-index.js`
